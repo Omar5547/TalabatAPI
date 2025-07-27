@@ -1,0 +1,15 @@
+D:\Talabat\Talabat.Services\bin\Release\net6.0\Talabat.Services.deps.json
+D:\Talabat\Talabat.Services\bin\Release\net6.0\Talabat.Services.dll
+D:\Talabat\Talabat.Services\bin\Release\net6.0\Talabat.Services.pdb
+D:\Talabat\Talabat.Services\bin\Release\net6.0\Talabat.Core.dll
+D:\Talabat\Talabat.Services\bin\Release\net6.0\Talabat.Core.pdb
+D:\Talabat\Talabat.Services\obj\Release\net6.0\Talabat.Services.csproj.AssemblyReference.cache
+D:\Talabat\Talabat.Services\obj\Release\net6.0\Talabat.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Talabat\Talabat.Services\obj\Release\net6.0\Talabat.Services.AssemblyInfoInputs.cache
+D:\Talabat\Talabat.Services\obj\Release\net6.0\Talabat.Services.AssemblyInfo.cs
+D:\Talabat\Talabat.Services\obj\Release\net6.0\Talabat.Services.csproj.CoreCompileInputs.cache
+D:\Talabat\Talabat.Services\obj\Release\net6.0\Talabat..D0FE60AD.Up2Date
+D:\Talabat\Talabat.Services\obj\Release\net6.0\Talabat.Services.dll
+D:\Talabat\Talabat.Services\obj\Release\net6.0\refint\Talabat.Services.dll
+D:\Talabat\Talabat.Services\obj\Release\net6.0\Talabat.Services.pdb
+D:\Talabat\Talabat.Services\obj\Release\net6.0\ref\Talabat.Services.dll
